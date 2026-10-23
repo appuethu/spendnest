@@ -1,0 +1,9 @@
+{
+  "name": "spendnest-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix webapp install && npm --prefix webapp run build",
+    "start": "npm --prefix webapp run preview"
+  }
+}

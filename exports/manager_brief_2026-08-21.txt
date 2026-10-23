@@ -1,0 +1,133 @@
+======================================================================
+MANAGER BRIEF — 21 AUGUST 2026 (Asia/Kolkata)
+Revenue Intelligence Inbox | SpendNest
+======================================================================
+
+DATASET OVERVIEW (Selected Records)
+  Total source records : 44 (30 calls, 14 meetings)
+  Usable transcripts   : 18 of 44 (after applying update batch)
+  Calls with text      : 10 of 30
+  Meetings with turns  : 8 of 14
+
+NOTE: This is a deliberately selected sample, not a full-team day.
+Counts are labelled as selected records; coverage percentages apply
+only to this extract.
+
+──────────────────────────────────────────────────────────────────────
+PRIORITY CONVERSATIONS
+──────────────────────────────────────────────────────────────────────
+
+1. M01 — Harborpath Advisory Partnership (DEAL FOLLOW-UP)
+   Outcome: Partner agreed to commission structure and referral link.
+   Action : Send MoU, unique referral link, and connect to marketing.
+   Owner  : Team member A (meeting organiser: team09@example.com)
+
+2. M03 — Asterloom Systems Cards Demo (DEAL FOLLOW-UP + COACHING)
+   Outcome: Customer interested; CFO approval still needed.
+   Issue  : Pricing discrepancy (INR 26k vs INR 39k) surfaced mid-demo.
+   Action : Send clean proposal; coach rep on price communication.
+   Owner  : Team member A + rep manager
+
+3. M04 — Cedarwave Distribution Migration (CUSTOMER FOLLOW-UP — URGENT)
+   Outcome: Credit vs prepaid unresolved; bank eligibility not confirmed.
+   Action : Confirm bank-card eligibility; fix department setup.
+   Owner  : Migration team + programme team
+
+4. M09 — Brookmint Holdings Onboarding (CUSTOMER FOLLOW-UP — URGENT)
+   Outcome: Reset token expired immediately — engineering bug suspected.
+   Action : Engineering to investigate; customer waiting.
+   Owner  : Engineering + support
+
+5. M07 — Willowfield Trust Issue Session (CUSTOMER FOLLOW-UP)
+   Outcome: Three product bugs documented: description save, upload in
+            Recreate Payment, and Mark-as-paid amount carry-forward.
+   Action : Engineering bug tickets for all three issues; update customer.
+   Owner  : Support + engineering
+   NOTE   : Transcript arrived in update batch (revision 2).
+
+──────────────────────────────────────────────────────────────────────
+SALES ACTIVITY SUMMARY
+──────────────────────────────────────────────────────────────────────
+
+Outbound calls (B-series, no transcript): 20 short-duration calls.
+  Most are voicemail or unresponsive; no transcripts supplied.
+  Rep Arun: workspace-01 calls; Rep Leela: workspace-02 calls.
+
+Connected calls with transcripts (C01–C10):
+  C03 — Developer API follow-up: email + Monday callback committed.
+  C04 — Lanternpath Media: voicemail left; awaiting callback from Ritesh.
+  C07 — Willowbank Advisory: partnership proposal via chat app; Monday call.
+  C08 — Prospect referral to people-ops colleague; send to contact08@example.com.
+  C09 — 130-location prospect: directed to LinkedIn contact Rishabh.
+  C01/C06: Prospects with no interest; no follow-up warranted.
+
+──────────────────────────────────────────────────────────────────────
+COACHING PRIORITIES
+──────────────────────────────────────────────────────────────────────
+
+1. Cold-call disclosure (C01): Rep disclosed cold-call status only after
+   being challenged. Recommend upfront disclosure as standard practice.
+
+2. Pricing communication (M03): Customer caught a discrepancy between
+   an earlier quote (INR 26k) and the demo price (INR 39k). Rep explained
+   the split, but the surprise damages credibility. Ensure written quotes
+   are issued before demos with returning prospects.
+
+──────────────────────────────────────────────────────────────────────
+INTERNAL / VENDOR ITEMS
+──────────────────────────────────────────────────────────────────────
+
+M02 — LedgerBridge invoicing integration evaluation:
+  Fill volume template before next commercial call.
+  Target: Q4 (SG/AU first, then India). Setup EUR 2,600–6,500+.
+
+M10 — Internal billing training complete.
+  Action: Request back-office super-admin access for Team member B.
+
+──────────────────────────────────────────────────────────────────────
+RECORDS REQUIRING HUMAN REVIEW
+──────────────────────────────────────────────────────────────────────
+
+  B01 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B02 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B03 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B04 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B05 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B06 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B07 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B08 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B09 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B10 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B11 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B12 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B13 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B14 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B15 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B16 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B17 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B18 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B19 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  B20 (call): Background call with no supplied transcript. Source metadata indicates voicemail
+  M04 (meeting): Cedarwave Distribution migration planning. Current card programme closing in wee
+  M05 (meeting): No transcript. Reason: The meeting was recorded but nobody spoke.
+  M07 (meeting): No usable transcript supplied for this record.
+  M08 (meeting): No transcript. Reason: The meeting was recorded but nobody spoke.
+  M09 (meeting): Onboarding session for customer managing two companies (Northkite Equipment + Br
+  M11 (meeting): No transcript. Reason: The meeting was recorded but nobody spoke.
+  M12 (meeting): No transcript. Reason: The notetaker was cancelled before the meeting started.
+  M13 (meeting): No transcript. Reason: No notetaker was ever scheduled for this meeting.
+  M14 (meeting): No transcript. Reason: The notetaker was cancelled before the meeting started.
+
+──────────────────────────────────────────────────────────────────────
+MISSING TRANSCRIPTS
+──────────────────────────────────────────────────────────────────────
+
+20 background calls (B01–B20): No transcripts supplied.
+  These are short-duration calls with voicemail/unresponsive outcomes.
+Meetings without usable turns: M05, M08, M11, M12, M13, M14.
+  Recording status: cancelled or not_scheduled.
+
+======================================================================
+End of brief. Generated from selected source records only.
+Analyses are pre-generated; M07 analysis reflects update-batch transcript.
+======================================================================

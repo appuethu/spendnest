@@ -1,0 +1,19 @@
+Record Reference: M13
+Source Type: meeting
+Source ID: 794a9d1c-889d-5957-873f-8a1271b03455
+Route: Human Review
+Applied Revision: 1
+Review State: needs_review
+Manual Override: No
+Analysis Freshness: current
+
+=== SUMMARY ===
+No transcript. Reason: No notetaker was ever scheduled for this meeting.
+
+=== ROUTE REASON ===
+Transcript unavailable: No notetaker was ever scheduled for this meeting.
+
+=== NEXT STEPS ===
+  - Await transcript or check recording status.
+
+=== EVIDENCE QUOTES ===

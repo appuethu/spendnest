@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: spendnest-intelligence
+    env: static
+    buildCommand: npm --prefix webapp install && npm --prefix webapp run build
+    staticPublishPath: webapp/dist
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: no-cache
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html

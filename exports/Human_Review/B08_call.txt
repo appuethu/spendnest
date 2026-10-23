@@ -1,0 +1,19 @@
+Record Reference: B08
+Source Type: call
+Source ID: 77350513-913c-5fed-b4e6-71009de9df03
+Route: Human Review
+Applied Revision: 1
+Review State: reviewed
+Manual Override: No
+Analysis Freshness: current
+
+=== SUMMARY ===
+Background call with no supplied transcript. Source metadata indicates voicemail or unresponsive outcome.
+
+=== ROUTE REASON ===
+Short background call — no usable transcript. Duration and metadata suggest no substantive conversation.
+
+=== NEXT STEPS ===
+  - No action required unless rep adds a note.
+
+=== EVIDENCE QUOTES ===

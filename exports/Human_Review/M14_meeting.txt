@@ -1,0 +1,19 @@
+Record Reference: M14
+Source Type: meeting
+Source ID: 93f4867d-65cd-5236-bc55-7bd57df8ac24
+Route: Human Review
+Applied Revision: 1
+Review State: needs_review
+Manual Override: No
+Analysis Freshness: current
+
+=== SUMMARY ===
+No transcript. Reason: The notetaker was cancelled before the meeting started.
+
+=== ROUTE REASON ===
+Transcript unavailable: The notetaker was cancelled before the meeting started.
+
+=== NEXT STEPS ===
+  - Await transcript or check recording status.
+
+=== EVIDENCE QUOTES ===

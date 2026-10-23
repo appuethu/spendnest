@@ -1,0 +1,24 @@
+Record Reference: C01
+Source Type: call
+Source ID: 2ec4404c-beee-5377-a63c-aab701da08ed
+Route: Sales Coaching
+Applied Revision: 1
+Review State: reviewed
+Manual Override: No
+Analysis Freshness: current
+
+=== SUMMARY ===
+Cold call; prospect (Pranav at Harborlight Advisory) rejected outreach, cited advanced existing automation and did not ask for follow-up. Call ended on a neutral note. No next steps established.
+
+=== ROUTE REASON ===
+Cold call to Harborlight Advisory. Prospect expressed anger at unsolicited contact and stated no interest. Rep disclosed cold-call status only after being challenged. Coaching opportunity: upfront disclosure and cleaner value proposition.
+
+=== NEXT STEPS ===
+  - Coach rep (Arun) on cold-call disclosure and handling objections.
+
+=== EVIDENCE QUOTES ===
+  * "it's still a cold call, isn't it? Yes, it is." — C01 transcript
+  * "Our processes are already very automated." — C01 transcript
+
+=== TRANSCRIPT ===
+Hello, Pranav here. Hi Pranav, Arun calling from SpendNest. I wanted to ask about Harborlight Advisory. Sorry, who is this? Arun from SpendNest. I was hoping to discuss Harborlight Advisory with you. Why are you calling? We work with outsourced finance leadership firms and—no, I asked why you have called me. Right, I wanted to understand whether a partnership might be relevant. I don't know how I ended up on your list. I didn't ask for this call, and I'm not interested. This number is for my work, not for people to sell things to me. I understand. This is business outreach, and we were hoping to—it's still a cold call, isn't it? Yes, it is. Then where did you find my details? Through a professional networking outreach programme; that's how we obtained the contact information. I realise this was unexpected and that you aren't happy about being contacted. If you are willing—just briefly, what does your company actually do? We partner with firms providing part-time finance leadership and look at ways to automate their finance operations. Our service can help with that. Our processes are already very automated. We have a fairly advanced setup, so I don't think this is something we need. Thanks anyway. All right, thank you for hearing me out. Goodbye.

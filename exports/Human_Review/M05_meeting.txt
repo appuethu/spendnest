@@ -1,0 +1,19 @@
+Record Reference: M05
+Source Type: meeting
+Source ID: e0ecb112-ed94-5e8e-ae71-19def5536337
+Route: Human Review
+Applied Revision: 1
+Review State: needs_review
+Manual Override: No
+Analysis Freshness: current
+
+=== SUMMARY ===
+No transcript. Reason: The meeting was recorded but nobody spoke.
+
+=== ROUTE REASON ===
+Transcript unavailable: The meeting was recorded but nobody spoke.
+
+=== NEXT STEPS ===
+  - Await transcript or check recording status.
+
+=== EVIDENCE QUOTES ===
